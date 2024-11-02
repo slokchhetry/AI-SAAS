@@ -54,7 +54,7 @@ export default function SaasHero() {
                                 ))}
                             </div>
                             <p className="text-gray-600 italic">
-                                "This solution has transformed our team's productivity. Highly recommended!"
+                                &ldquo;This solution has transformed our team&apos;s productivity. Highly recommended!&rdquo;
                             </p>
                             <p className="text-gray-800 font-semibold mt-2">- Jane Doe, CEO of TechCorp</p>
                         </div>
